@@ -1,5 +1,7 @@
 # DT228/DT282 Object Oriented Programming Lab Test 2020-2021
 
+# Yuhong He C19326053
+
 ## Instructions
 
 For today's lab test, you will be making a program that parses Strings containing music notes and renders them in stave notation. Here is a video of what your finished program should look like (click the image for the video):
